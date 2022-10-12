@@ -10,3 +10,7 @@ Note collective pour la Vie des données sociales. Markéta Ovečková &amp; Mic
 <img src="home/vojtech/SciPo/Year 4/La vie sociale des données/dom.jpg">
 
 ![alt text](http://url/to/img.png)
+
+![alt text](https://github.com/vojtechholik//blob/[branch]/image.jpg?raw=true)
+
+![alt text](relative/path/to/dom.jpg?raw=true "Dom")
