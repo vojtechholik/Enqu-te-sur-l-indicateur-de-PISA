@@ -7,7 +7,7 @@ Note collective pour la Vie des données sociales. Markéta Ovečková &amp; Mic
 
 ![alt text](home/vojtech/SciPo/Year 4/La vie sociale des données/dom.png)
 
-<img src="home/vojtech/SciPo/Year 4/La vie sociale des données/dom.jpg">
+<img src="home/vojtech/SciPo/Year 4/La vie sociale des données/dom.jpg" alt="Alt text">
 <img src="home/vojtech/SciPo/Year 4/La vie sociale des données/dom.jpg">
 <img src="/home/vojtech/SciPo/Year 4/La vie sociale des données/dom.jpg">
 <img src="/home/vojtech/SciPo/Year 4/La vie sociale des données/dom.jpg">
