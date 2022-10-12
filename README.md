@@ -5,4 +5,4 @@ Note collective pour la Vie des données sociales. Markéta Ovečková &amp; Mic
 
 ### Part 1: THE MAN
 
-![](home/vojtech/SciPo/Year 4/La vie sociale des données/dom.png)
+![](/home/vojtech/SciPo/Year 4/La vie sociale des données/dom.png)
