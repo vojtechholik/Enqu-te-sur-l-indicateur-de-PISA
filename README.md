@@ -1,7 +1,6 @@
-# Enqu-te-sur-l-indicateur-de-PISA
-Note collective pour la Vie des données sociales. Markéta Ovečková &amp; Michal Kubala &amp; Vojtěch Holík
-
-# L'indicateur PISA
+# Enquête sur l'indicateur de PISA
+Note collective pour le cours La vie sociale des données
+Markéta Ovečková &amp; Michal Kubala &amp; Vojtěch Holík
 
 ## Introduction: C'est quoi PISA ?
 
