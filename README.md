@@ -15,6 +15,13 @@ Afin d’analyser les indices PISA, nous avons traité les données disponibles 
 ![My Image](gender_maths.jpg, gender_read.jpg, gender_science.jpg)
 
 <p float="left">
+  <img src="/gender_read.jpg" width="100" />
+  <img src="/gender_maths.jpg" width="100" /> 
+  <img src="/gender_science.jpg" width="100" />
+</p>
+
+
+<p float="left">
   <![My Image](gender_read.jpg width="100") />
   <![My Image](gender_maths.jpg width="100") /> 
   <![My Image](gender_science.jpg) width="100") />
