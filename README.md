@@ -4,11 +4,11 @@ Markéta Ovečková &amp; Michal Kubala &amp; Vojtěch Holík
 
 ## Introduction: C'est quoi PISA ?
 
-Tot otázka
+
 
 ## Difficultés de ses usages et possibles critiques
 
-auvaises pour l'autre moitié.” Ainsi, les résultats de PISA peuvent servir de base pour les interprétations nationales et éventuellement mener à l'amélioration du système éducatif d'un pays.
+
 
 ## Visualisation de la base de données et interprétation
 
