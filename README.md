@@ -50,3 +50,8 @@ Sur le graphique ci-dessus, on observe la relation entre les dépenses en éduca
 
 Il est également intéressant de se demander si les scores de PISA pourraient expliquer les réussites aux examens finaux de l’enseignement secondaire. Sur le graphique ci-dessus, nous observons que cette relation est effectivement positive : une hausse du score moyen de PISA de 10 points est liée à un accroissement dans le taux de réussite dans l'enseignement secondaire de 1,9%. La relation se montre plus forte pour les garçons que pour les filles : la piste de la ligne de régression est plus raide pour les filles que pour les garçons, bien que les filles soient généralement supérieures dans le taux de réussite dans l’enseignement secondaire et dans les scores PISA. L'interprétation de ce graphique, aussi que du précédent, se heurte aux limitations importantes car nous n’observons les données qu’au niveau national. Quoique la comparaison entre les pays soit pertinente, il existe des nuances importantes dans les pays même. Pour pouvoir tirer des conclusions avec plus de confiance, il nous faudrait observer les variables au niveau individuel, auquel elles ne sont pas disponibles. Une analyse avec des effets fixés des caractéristiques des pays pourrait apporter plus de lumière sur les questions que nous soulevons ici, mais une telle tâche dépasse le cadre de cette note.
 
+## Échange sur l'usage pratique de PISA avec des experts et des chercheurs dans le domaine d'enseignement
+
+## Conclusion
+
+## Bibliographie
