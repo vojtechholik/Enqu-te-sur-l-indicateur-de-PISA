@@ -53,10 +53,10 @@ Afin d’analyser les indices PISA, nous avons traité les données disponibles 
 ![My Image](gender_sciences.png)
 
 <p float="middle">
-  <img src="/gender.png" width= "500" />
-  <img src="/gender_read.png" width= "500" />
-  <img src="/gender_maths.png" width="500" /> 
-  <img src="/gender_sciences.png" width="500" />
+  <img src="gender.png" width= "500" />
+  <img src="gender_read.png" width= "500" />
+  <img src="gender_maths.png" width="500" /> 
+  <img src="gender_sciences.png" width="500" />
 </p>
 
 Sur les 4 graphiques ci-dessus, on observe les différences entre les scores PISA des filles et des garçons en moyenne et dans les trois disciplines : la lecture, les mathématiques et les sciences. L'écart plus grand entre les scores des filles et des garçons en 2000 s'explique par le fait que cette année-là, seulement des tests en lecture ont été faits. En tout cas, les filles performent en général mieux que les garçons dans les tests PISA. Les filles réussissent en moyenne de 30 points PISA de mieux que les garçons en lecture tandis que les garçons de 5 à 10 points en mathématiques. En sciences, les scores sont étonnamment similaires. Ces résultats résonnent bien avec les recherches de Baudelot et Establet qu'on a précédamment mentionnées (Baudelot Ch., Establet R, 2009, p. 99). Pour les 3 disciplines, on constate que les résultats moyens, notamment en mathématiques pour les garçons et sciences pour les deux genres, diminuent progressivement dans le temps. Cela signifie-t-il que les élèves apprennent moins dans ces matières aujourd'hui qu'il y a 20 ans  ? Peut-on garantir le même niveau de difficulté dans les tests PISA d'une année à l’autre ? Ces-questions-là n'annulent pas les constatations qu'on a fait, mais elles nous rappellent qu'il est nécessaire d'interpréter les résultats statistiques avec caution.  
