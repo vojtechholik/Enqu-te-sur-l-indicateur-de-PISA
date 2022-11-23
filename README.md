@@ -47,11 +47,6 @@ Afin d’analyser les indices PISA, nous avons traité les données disponibles 
 
 ### La différence entre les scores des filles et des garçons par discipline de 2000 à 2018 
 
-![My Image](gender.png)
-![My Image](gender_read.png)
-![My Image](gender_maths.png)
-![My Image](gender_sciences.png)
-
 <p float="middle">
   <img src="gender.png" width= "500" hight= "300"/>
   <img src="gender_read.png" width= "500" hight= "300" />
