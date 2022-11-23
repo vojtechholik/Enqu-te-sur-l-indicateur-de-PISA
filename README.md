@@ -126,4 +126,4 @@ Pupala, B. “PISA v kritickej perspektíve.” Orbis Scholae, vol. 5, no. 1. [e
 
 Salles, F. “PISA 2012 en résolution de problèmes: meilleure réussite et moins d'inégalités”, Note d’Information n° 08 [en ligne] DEPP B2, avril 2014, 4 p. [consulté le 16 novembre 2022], disponible sur: https://www.education.gouv.fr/sites/default/files/imported_files/document/DEPP_NI_2014_08_PISA_2012_resolution_problemes_meilleure_reussite_moins_inegalites_311248.pdf 
 
-Sjøberg, S. “PISA : politique, problèmes fondamentaux et résultats paradoxaux.” Recherches en éducation, 14 | 2012. [en ligne] Mise en ligne: septembre 2012. [consulté le 16 novembre 2022], disponible sur: https://journals.openedition.org/ree/5855 
+Sjøberg, S. “PISA : politique, problèmes fondamentaux et résultats paradoxaux.” Recherches en éducation, 14, 2012. [en ligne] Mise en ligne: septembre 2012. [consulté le 16 novembre 2022], disponible sur: https://journals.openedition.org/ree/5855 
