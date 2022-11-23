@@ -3,7 +3,7 @@ Note collective pour le cours La vie sociale des données
 Markéta Ovečková &amp; Michal Kubala &amp; Vojtěch Holík
 
 
-## Introduction: C'est quoi PISA ?
+## Introduction: Qu'est-ce qe PISA ?
 
 Le Program for International Student Assessment (PISA) est une enquête conçue pour suivre et évaluer les acquis des élèves. La première étude a eu lieu en 2000 et a été reprise tous les trois ans depuis, avec une pause en 2021 due à la pandémie Covid-19. L'enquête la plus récente a eu lieu en 2022 dont les résultats ne sont pas encore disponibles. 
 
@@ -126,4 +126,4 @@ Pupala, B. “PISA v kritickej perspektíve.” Orbis Scholae, vol. 5, no. 1. [e
 
 Salles, F. “PISA 2012 en résolution de problèmes: meilleure réussite et moins d'inégalités”, Note d’Information n° 08 [en ligne] DEPP B2, avril 2014, 4 p. [consulté le 16 novembre 2022], disponible sur: https://www.education.gouv.fr/sites/default/files/imported_files/document/DEPP_NI_2014_08_PISA_2012_resolution_problemes_meilleure_reussite_moins_inegalites_311248.pdf 
 
-Sjøberg, S. “PISA : politique, problèmes fondamentaux et résultats paradoxaux.” Recherches en éducation, 14 | 2012. [en ligne] Mise en ligne: septembre 2012. [consulté le 16 novembre 2022], disponible sur: https://journals.openedition.org/ree/5855 
+Sjøberg, S. “PISA : politique, problèmes fondamentaux et résultats paradoxaux.” Recherches en éducation, 14, 2012. [en ligne] Mise en ligne: septembre 2012. [consulté le 16 novembre 2022], disponible sur: https://journals.openedition.org/ree/5855 
