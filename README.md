@@ -2,7 +2,7 @@
 Note collective pour le cours La vie sociale des données
 Markéta Ovečková &amp; Michal Kubala &amp; Vojtěch Holík
 
-![My Image](PISALOGOO4.png)
+![My Image](PISALOGO04.png)
 
 ## Introduction: Qu'est-ce que PISA ?
 
