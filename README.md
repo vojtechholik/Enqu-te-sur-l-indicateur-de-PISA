@@ -3,7 +3,7 @@ Note collective pour le cours La vie sociale des données
 Markéta Ovečková &amp; Michal Kubala &amp; Vojtěch Holík
 
 
-## Introduction: Qu'est-ce qe PISA ?
+## Introduction: Qu'est-ce que PISA ?
 
 Le Program for International Student Assessment (PISA) est une enquête conçue pour suivre et évaluer les acquis des élèves. La première étude a eu lieu en 2000 et a été reprise tous les trois ans depuis, avec une pause en 2021 due à la pandémie Covid-19. L'enquête la plus récente a eu lieu en 2022 dont les résultats ne sont pas encore disponibles. 
 
